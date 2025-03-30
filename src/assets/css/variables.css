@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #4361ee;
+  --primary-dark: #3a56d4;
+  --primary-gradient: linear-gradient(135deg, #4361ee 0%, #3a56d4 100%);
+  --accent-color: #ff6b6b;
+  --text-color: #2d3748;
+  --text-light: #718096;
+  --white: #ffffff;
+  --secondary-color: #f8f9fa;
+  --gray-light: #e2e8f0;
+  --border-radius: 10px;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --hover-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
+} 
