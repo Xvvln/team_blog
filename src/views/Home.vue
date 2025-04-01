@@ -156,7 +156,7 @@ export default {
       currentIndex: 0,
       autoScrollInterval: null,
       members: [
-        { id: 'xiexuwh', name: '谢圩浩', position: '数据洞察工程师', image: '谢圩浩.jpg' },
+        { id: 'xieweihao', name: '谢圩浩', position: '数据洞察工程师', image: '谢圩浩.jpg' },
         { id: 'yuxinwei', name: '余昕炜', position: '数据可视化艺术家', image: '余昕炜.jpg' },
         { id: 'shipinghui', name: '史蘋慧', position: '业务拓展先锋', image: '史蘋慧.jpg' },
         { id: 'shiqiyu', name: '石祁煜', position: '智能项目导航员', image: '石祁煜.jpg' },

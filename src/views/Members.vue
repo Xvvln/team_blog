@@ -131,7 +131,7 @@ export default {
     return {
       members: [
         {
-          id: 'xiexuwh',
+          id: 'xieweihao',
           name: '谢圩浩',
           position: '数据洞察工程师',
           avatar: require('../assets/images/members/谢圩浩.jpg'),
