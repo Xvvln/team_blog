@@ -217,7 +217,7 @@ export default {
         if (!this.isDragging) {
           this.scrollNext();
         }
-      }, 3000);
+      }, 2000);
     },
     
     stopAutoScroll() {
